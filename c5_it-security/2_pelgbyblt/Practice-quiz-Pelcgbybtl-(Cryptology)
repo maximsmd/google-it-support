@@ -1,0 +1,121 @@
+##Pelcgbybtl-(Cryptology)
+
+<br>
+
+### Question 1
+
+Plaintext is the original message, while _____ is the encrypted message.
+
+* cipher
+* algorithm
+* digest
+* **ciphertext**
+
+> Plaintext is the original message, while ciphertext is the encrypted message.
+
+<br>
+
+### Question 2
+
+The specific function of converting plaintext into ciphertext is called a(n) ______.
+
+* integrity check
+* data protection standard
+* **encryption algorithm**
+* permutation
+
+> The specific function of converting plaintext into ciphertext is called an encryption algorithm.
+
+<br>
+
+### Question 3
+Studying how often letters and pairs of letters occur in a language is referred to as _______.
+
+* **frequency analysis**
+* espionage
+* codebreaking
+* cryptography
+
+> Studying how often letters and pairs of letters occur in a language is referred to as frequency analysis.
+
+<br>
+
+### Question 4
+The practice of hiding messages instead of encoding them is referred to as ______.
+
+* obfuscation
+* hashing
+* encryption
+* **steganography**
+
+> The practice of hiding messages instead of encoding them is referred to as steganography.
+
+<br>
+
+### Question 5
+ROT13 and a Caesar cipher are examples of _______.
+
+* **substitution ciphers**
+* digital signatures
+* asymmetric encryption
+* steganography
+
+> ROT13 and a Caesar cipher are examples of substitution ciphers.
+
+<br>
+
+### Question 6
+DES, RC4, and AES are examples of ______ encryption algorithms.
+
+* asymmetric
+* weak
+* **symmetric**
+* strong
+
+> DES, RC4, and AES are examples of symmetric encryption algorithms.
+
+<br>
+
+### Question 7
+Which of the following are necessary components for encryption and decryption operations when using an asymmetric encryption system? Check all that apply.
+
+* Digest
+* **Private key**
+* Random number generator
+* **Public key**
+
+> Necessary components for encryption and decryption operations when using an asymmetric encryption system are the private key and the public key.
+
+<br>
+
+### Question 8
+To create a public key signature, use the ______ key.
+
+* symmetric
+* **private**
+* public
+* decryption
+
+> To create a public key signature, use the private key.
+
+<br>
+
+### Question 9
+Using an asymmetric cryptosystem provides which of the following benefits? Check all that apply.
+
+* **Confidentiality**
+* **Authenticity**
+* Hashing
+* **Non-repudiation**
+
+<br>
+
+### Question 10
+If two different files result in the same hash, it is referred to as a ________.
+
+* key collision
+* mistake
+* coincidence
+* **hash collision**
+
+> If two different files result in the same hash, it is referred to as a hash collision.
