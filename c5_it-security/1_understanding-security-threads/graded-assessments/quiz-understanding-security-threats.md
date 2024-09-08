@@ -164,4 +164,62 @@ An attacker, acting as a postal worker, used social engineering tactics to trick
 * Spoofing
 * **Social engineering**
 
-> Social engineering is an attack method that relies heavily on interactions with humans. Humans will always be the weakest link in a security system. 
+> Social engineering is an attack method that relies heavily on interactions with humans. Humans will always be the weakest link in a security system.
+
+###Question 14
+Fill in the blank: Phishing, spoofing and tailgating are examples of _____ attacks
+
+* Injection
+* **Social engineering**
+* Network
+* Walware
+
+> Phishing, spoofing, and tailgating are examples of social engineering attacks. These types of attacks manipulate human behavior to gain unauthorized access or sensitive information.
+
+###Question 15
+In the CIA triad, what does the letter I stand for
+
+* Implementation
+* **Intergrity**
+* Information
+* Intelligence
+
+> The three letters in "CIA triad" stand for Confidentiality, Integrity, and Availability.
+
+###Question 16
+What kind of malware can block access to data and decrease the availability of security by holding the system hostage
+
+* Spyware
+* A logic bomb
+* Adware
+* **Rasomware**
+
+> A type of malicious software designed to block access to a computer system until a sum of money is paid.
+
+###Question 17
+Which of the following is an example of a zero-day vulnerability?   
+
+* **A group of hackers finds a flaw in a new software product and takes advantage of it before the vendor or developer finds it.**
+* After a user downloads and starts a piece of software, it starts showing ads and collecting data.
+* A user voluntarily downloads a piece of software hoping it will be useful, but instead it lets hackers access the user’s computer.
+* A user accidentally loads malware onto a computer that logs the user’s keypresses and uses them to get confidential information.
+
+> A zero-day vulnerability refers to a software flaw that is exploited by attackers before the vendor or developer is aware of it and has had a chance to fix it.
+
+###Question 18
+Which of the following attacks send many packets to a system to crash it or to prevent services from being available? Select all that apply.
+
+* **A ping of death (POD) attack**
+* **Ping flood**
+*An evil twin attack
+* **SYN flood**
+
+> These attacks are aimed at overwhelming a system with packets to cause it to crash or become unavailable, disrupting normal services.
+
+###Question 18
+Which of the following best helps you strengthen your password?
+
+* Choose the name of a favorite movie as a password
+* Use the name of a beloved pet as a password
+* **Incorporate symbols, numbers, and capital letters**
+* Use passwords from a precompiled list
